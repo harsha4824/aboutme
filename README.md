@@ -1,23 +1,23 @@
 # aboutme
 
-##Repositry links
+## Repositry links
 - [Web page](https://github.com/harsha4824 "My web page")
 - [Source](https://github.com/harsha4824/aboutme/ "My source page")
 
-##About
+## About
 This repository is used for gaining more experience using Git and Makrdown.
 
-##Recommended Tools
+## Recommended Tools
 
 1. [Github](https://github.com/ "https://github.com/"): Github is a web page hosting service for version control git
 1. [HTML](https://www.w3schools.com/html/ "https://www.w3schools.com/html/"): HTML is basic tool for any web page development.
 1. [Markdowm](https://en.wikipedia.org/wiki/Markdown "https://en.wikipedia.org/wiki/Markdown")
 
-##Recommended Resources
+## Recommended Resources
 1. [WordPress](https://wordpress.com/ "https://wordpress.com/") -WordPress is used for publishing program.
 1. [TortoiseGit](https://tortoisegit.org/ "https://tortoisegit.org/") -It is used for assisting in managing git projects.
 1. [Visualstudio](https://code.visualstudio.com/ "https://code.visualstudio.com/") -It is simple but powerfull IDE.
 
-##Contributers
+## Contributers
 Hello, my name is Harsha Vardhan Reddy Nallavolu of MS-ACS.
-- [Image](https://virginiajbradley.files.wordpress.com/2015/12/green-mountains-wallpaper-16209.jpg "Green Mountains")
+![Image](https://virginiajbradley.files.wordpress.com/2015/12/green-mountains-wallpaper-16209.jpg "Green Mountains")
