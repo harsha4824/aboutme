@@ -11,7 +11,7 @@ This repository is used for gaining more experience using Git and Makrdown.
 
 1. [Github](https://github.com/ "https://github.com/"): Github is a web page hosting service for version control git
 1. [HTML](https://www.w3schools.com/html/ "https://www.w3schools.com/html/"): HTML is basic tool for any web page development.
-1. [Markdowm](https://en.wikipedia.org/wiki/Markdown "https://en.wikipedia.org/wiki/Markdown")
+1. [Markdowm](https://en.wikipedia.org/wiki/Markdown "https://en.wikipedia.org/wiki/Markdown"): Markup is a lightweight markup language.
 
 ## Recommended Resources
 1. [WordPress](https://wordpress.com/ "https://wordpress.com/") -WordPress is used for publishing program.
@@ -19,5 +19,5 @@ This repository is used for gaining more experience using Git and Makrdown.
 1. [Visualstudio](https://code.visualstudio.com/ "https://code.visualstudio.com/") -It is simple but powerfull IDE.
 
 ## Contributers
-Hello, my name is Harsha Vardhan Reddy Nallavolu of MS-ACS.
+Hello, my name is Harsha Vardhan Reddy Nallavolu pursuing my Masters in Applied Computer Science.
 ![Image](https://virginiajbradley.files.wordpress.com/2015/12/green-mountains-wallpaper-16209.jpg "Green Mountains")
